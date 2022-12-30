@@ -1,4 +1,4 @@
-baseURL = "http://cfeclipse.org/"
+baseURL = "https://cfeclipse.org/"
 languageCode = "en-us"
 title = "CFEclipse"
 theme = 'beautifulhugo'

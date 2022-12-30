@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CFEclipse</title>
-    <link>http://cfeclipse.org/post/</link>
+    <link>https://cfeclipse.org/post/</link>
     <description>Recent content in Posts on CFEclipse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>amyers@cfeclipse.org (Andrew Myers)</managingEditor>
     <webMaster>amyers@cfeclipse.org (Andrew Myers)</webMaster>
-    <lastBuildDate>Thu, 29 Dec 2022 19:29:56 +1100</lastBuildDate><atom:link href="http://cfeclipse.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 19:29:56 +1100</lastBuildDate><atom:link href="https://cfeclipse.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CFEclipse is no longer being developed</title>
-      <link>http://cfeclipse.org/post/cfeclipse-is-no-longer-being-developed/</link>
+      <link>https://cfeclipse.org/post/cfeclipse-is-no-longer-being-developed/</link>
       <pubDate>Thu, 29 Dec 2022 19:29:56 +1100</pubDate>
       <author>amyers@cfeclipse.org (Andrew Myers)</author>
-      <guid>http://cfeclipse.org/post/cfeclipse-is-no-longer-being-developed/</guid>
+      <guid>https://cfeclipse.org/post/cfeclipse-is-no-longer-being-developed/</guid>
       <description>CFEclipse is not longer being developed</description>
     </item>
     
